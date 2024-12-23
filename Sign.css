@@ -1,0 +1,28 @@
+*{
+    justify-content: center;
+    color: white;
+}
+body{
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(banner.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.back{
+    margin: 20px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    
+}
+
+.head{
+   
+}
+
+
+
+
