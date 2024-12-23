@@ -1,0 +1,48 @@
+.banner {
+    background-color: gray;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    height: 100%;
+  }
+  
+  .container-fluid{
+    background-color: #535050;
+  }
+  
+  #btn-back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display: none;
+  }
+  
+  .align{
+    text-align: left;
+  }
+  
+  .text-align{
+    text-align: end;
+    margin-right: 30px;
+  }
+  
+  .text{
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .quanti{
+   margin-left: 50%;
+   
+  }
+  .span{
+    font-size: 50px;
+  }
+  .center{
+    color: rgb(255, 255, 255);
+  }
+  .left{
+    text-align: end;
+    margin-right: 30px;
+  }
+ 

@@ -1,0 +1,17 @@
+*{
+    justify-content: center;
+    margin: 3px;
+}
+body{
+    background-color: gray;
+}
+.back{
+    margin: 20px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.text-center{
+    margin-top: 40px;
+}
